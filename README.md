@@ -1,24 +1,5 @@
-# README
+# RPS Hero Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails API backend for RPS Hero.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+RPS Hero: https://www.github.com/eddgr/rps-hero
